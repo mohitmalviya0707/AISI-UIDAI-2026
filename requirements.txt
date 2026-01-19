@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 plotly
-seaborn (maybe)
-pillow (matplotlib ko chahiye hota hai)
+seaborn
+pillow
